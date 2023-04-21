@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yusufabdulhadiassalaphy
 - 👀 I’m interested in research
-- 🌱 I’m currently learning HTML language
-- 💞️ I’m looking to collaborate on web developers
+- 🌱 I’m currently learning software engineering at alx
+- 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me @tel:08060216755 or mail to:assalaphy2022@gmail.com
 
 <!---
